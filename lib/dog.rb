@@ -10,8 +10,6 @@ def name
 end 
 end 
   
-gizmo = Dog.new 
-gizmo.name = "Gizmo"
 
  class Dog 
    def initialize 
