@@ -11,4 +11,4 @@ end
 end 
   
 gizmo = Dog.new 
-gizmo = n
+gizmo.name = "Gizmo"
