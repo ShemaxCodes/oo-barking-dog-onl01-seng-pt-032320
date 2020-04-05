@@ -8,6 +8,7 @@ end
 def name 
   dogs_name 
 end 
+end 
   
 gizmo = Dog.new 
 gizmo.name = "Gizmo"
