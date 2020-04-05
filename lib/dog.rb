@@ -16,3 +16,6 @@ end
      puts "Woof!"
    end 
  end 
+ 
+ gizmo = Dog.new 
+gizmo.name = "Gizmo"
