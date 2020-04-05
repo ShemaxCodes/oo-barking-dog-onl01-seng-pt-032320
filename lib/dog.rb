@@ -17,5 +17,5 @@ end
    end 
  end 
  
- gizmo = Dog.new 
+gizmo = Dog.new 
 gizmo.name = "Gizmo"
