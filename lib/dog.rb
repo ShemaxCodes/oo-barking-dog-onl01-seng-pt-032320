@@ -17,5 +17,4 @@ end
    end 
  end 
  
-gizmo = Dog.new 
-gizmo.name = "Gizmo"
+dogs_name.name 
