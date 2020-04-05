@@ -12,3 +12,9 @@ end
   
 gizmo = Dog.new 
 gizmo.name = "Gizmo"
+
+ class Dog 
+   def initialize 
+     puts "Woof!"
+   end 
+ end 
