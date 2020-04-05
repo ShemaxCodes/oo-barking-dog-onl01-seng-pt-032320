@@ -11,7 +11,7 @@ end
 
  class Dog 
    def initialize 
-     puts "Woof!"
+     puts "woof!"
    end 
  end 
  
